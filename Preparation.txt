@@ -1,0 +1,153 @@
+General
+~~~~~~~~~~~~~~~~~~~~~~
+https://www.linkedin.com/interview-prep/assessments/urn:li:fsd_assessment:(1,a)/question/urn:li:fsd_assessmentQuestion:(10011,aq11)/
+
+
+
+UK IT Job Listing
+~~~~~~~~~~~~~~~~~~~~~~~~
+https://findajob.dwp.gov.uk/search?cat=14&loc=86384
+https://devitjobs.uk/blog/how-to-get-job-as-software-developer-in-uk-complete-guide
+
+
+Some good job list
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.reed.co.uk/jobs/php-developer/52367699?source=searchResults&filter=%2Fjobs%2Fit-jobs
+https://www.reed.co.uk/jobs/sdet-engineer-embedded-systems-aws-cucumber-w-berkshire/52367705?source=searchResults&filter=%2Fjobs%2Fit-jobs
+https://www.reed.co.uk/jobs/solution-architect-net-azure-expert/52367754?source=searchResults&filter=%2Fjobs%2Fit-jobs
+https://www.reed.co.uk/jobs/devops-software-developer/52367783?source=searchResults&filter=%2Fjobs%2Fit-jobs
+https://www.reed.co.uk/jobs/solutions-architect/51524769?source=searchResults&filter=%2Fjobs%2Fit-jobs
+https://www.reed.co.uk/jobs/net-developer-york/52367596?source=searchResults&filter=%2Fjobs%2Fit-jobs
+https://www.reed.co.uk/jobs/net-developer-gloucester/52367597?source=searchResults&filter=%2Fjobs%2Fit-jobs
+https://www.reed.co.uk/jobs/full-stack-developer-c-net-angular-fintech/52368064?source=searchResults&filter=%2Fjobs%2Fit-jobs-in-london
+https://www.reed.co.uk/jobs/front-end-developer-dv-cleared/52368056?source=searchResults&filter=%2Fjobs%2Fit-jobs-in-london
+https://www.reed.co.uk/jobs/data-architect-dv-cleared/52368047?source=searchResults&filter=%2Fjobs%2Fit-jobs-in-london
+https://www.reed.co.uk/jobs/data-science-engineer-dv-cleared/52368052?source=searchResults&filter=%2Fjobs%2Fit-jobs-in-london
+https://www.reed.co.uk/jobs/software-engineer-sc-cleared/52368057?source=searchResults&filter=%2Fjobs%2Fit-jobs-in-london
+https://www.reed.co.uk/jobs/principal-software-engineer-dv-cleared/52368045?source=searchResults&filter=%2Fjobs%2Fit-jobs-in-london
+https://www.reed.co.uk/jobs/php-developer/52367699?source=searchResults&filter=%2Fjobs%2Fit-jobs-in-london
+https://www.linkedin.com/jobs/search/?currentJobId=3858874086&geoId=101165590&keywords=artificial%20intelligence&location=United%20Kingdom&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&originalSubdomain=uk&refresh=true
+https://www.linkedin.com/jobs/search/?currentJobId=3864494227&geoId=101165590&keywords=artificial%20intelligence&location=United%20Kingdom&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&originalSubdomain=uk&refresh=true
+https://www.linkedin.com/jobs/search/?currentJobId=3824400080&f_C=2497653%2C12903572%2C69611066&geoId=92000000&origin=COMPANY_PAGE_JOBS_CLUSTER_EXPANSION&originToLandingJobPostings=3824400080%2C3853976806%2C3821211019%2C3841310616%2C3826071703%2C3867179025%2C3821210198%2C3838691829%2C3813828145
+
+
+Game Job Listing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://www.linkedin.com/jobs/search/?currentJobId=3854405467&geoId=101165590&keywords=artificial%20intelligence&location=United%20Kingdom&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&originalSubdomain=uk&refresh=true
+https://www.glassdoor.com.hk/Job/london-england-uk-programmer-jobs-SRCH_IL.0,17_IC2671300_KO18,28.htm
+
+
+
+Azure Solution Architect
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|__ https://www.reed.co.uk/jobs/azure-solution-architect-charity-fully-remote/52368194?source=searchResults&filter=%2Fjobs%2Fit-jobs-in-london
+|__ Learn: https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/
+    |__ https://www.youtube.com/watch?v=i6NzKvGUsBs
+	
+
+
+Some IT Requirement
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Strong knowledge of Cybersecurity, IT infrastructure, networking, hardware, software, and cloud-based services.
+- Relevant certifications (CompTIA Security+ or Cybersecurity related) are desirable, CompTIA CASP+ is plus
+- MS Intune==> https://www.youtube.com/watch?v=56Ihv5MF4_U
+
+
+
+API Developer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- https://www.reed.co.uk/jobs/api-developer/52368225?source=searchResults&filter=%2Fjobs%2Fit-jobs-in-london
+
+
+Data Scientists
+~~~~~~~~~~~~~~~~~~~
+|__ Python, Qlik, Data Engineering (LLM, Gen AI)
+|__ Data architecture
+|__ Data Governance
+|__ BI / Analytics
+|__ Data Modelling & Visualization including ETL
+|__ Extract, Transform, Load (ETL) data pipeline framework
+|__ Python and AWS Cloud services
+|__ RESTful APIs and/or GraphQL.
+|__ Azure Data Engineer 
+|__ Experience using data query tools such as Kibana or Splunk
+|__ Experience with AI/ML systems
+|__ Python, R, TensorFlow, PyTorch
+|__ https://www.linkedin.com/jobs/search/?currentJobId=3852163641&geoId=101165590&keywords=artificial%20intelligence&location=United%20Kingdom&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&originalSubdomain=uk&refresh=true
+|__ Azure OpenAI
+|__ https://www.linkedin.com/jobs/search/?currentJobId=3842078403&geoId=101165590&keywords=artificial%20intelligence&location=United%20Kingdom&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&originalSubdomain=uk&refresh=true
+
+
+DevOps Engineer
+~~~~~~~~~~~~~~~~~~~~~~~~
+|__ migrate on-premise machines to Azure Virtual Machines (VMs)
+|__ automate the deployment and configuration process using PowerShell Desired State Configuration (DSC).
+|__ Azure DevOps
+|__ Azure SQL server
+|__ Azure App Service
+|__ Azure Functions
+|__ Docker, Kubernetes
+|__ Relevant certifications such as Microsoft Certified: Azure Solutions Architect Expert or Microsoft Certified: Azure Developer Associate are a plus.
+|__ Ansible, Jenkins
+|__ GitOps architecture and tools like ArgoCD.
+|__ relational databases (Postgres, MySQL, others), key-value (Redis) and message systems like Kafka or RabbitMQ.
+|__ working with infrastructure as code with Terraform, JavaScript & Go, implementing and automating deployments on Kubernetes using tools like Helm or Kustomize
+|__ Kubernetes clusters or Red Hat OpenShift Platform, writing Kubernetes operators.
+|__ Prometheus metrics and Thanos storage, setting up observability systems based on opentelemetry or other tools.
+|__ Experience of CI/CD tools such as Jenkins or alternatives such as Bamboo, Drone or TeamCity
+|__ Experience with EKS, Kubernetes, OpenSearch/ElasticSearch, MongoDB, Spark or NiFi.
+|__ Experience working on cloud platforms, preferably Azure, and familiarity with key Azure services like Azure Machine Learning, Databricks, Azure Functions, and Cosmos DB.
+|__ Power Automate
+|__ Power Apps
+
+
+
+E-commerce
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|__ PHP
+    |__  Object Orientated, backend web development
+    |__ MVC principles 
+	|__ SQL
+	|__ CSS/HTML/JavaScript skills as a minimum.
+	
+
+Software Developer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- expertise in programming languages such as Java, JavaScript, or React. (at least one)
+- NoSQL databases, particularly experience with technologies like Cloudant
+- Experience with Python
+- Experience with C++
+- Java, C# .net, JavaScript, Python, Front End technologies
+- Experience in one or more technology stacks such as Spring (Core, MVC, Boot/Cloud, Data), integration technologies
+
+
+
+
+.NET Developer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+NET Developer, .NET 8, ASP.NET, C#, React, Angular 17, Microservices, Vue.js, TypeScript, Azure, Web API 2, Agile, SQL Server 2022, Programmer, Full Stack Engineer, Architect, .NET Developer
+
+
+
+
+Plan A, B ... C
+~~~~~~~~~~~~~~~~~~~~~~~~~
+(A) Set up the Linkined account, prepare the CV and resumes
+(B) Practise the representation in English, PPT for self-introduction, what contribution I can make for company
+(C) Practise the coding test like (i) leetCode (2) game-design interview interview (3) Aptitude test 
+(D) Develop a simply game that can generate some passive revenue
+(E) Set up a business:
+    |__ https://www.ycombinator.com/cofounder-matching
+	
+
+	
+
+
+
+
+
+
+
+
+
+
