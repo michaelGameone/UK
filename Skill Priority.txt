@@ -1,0 +1,84 @@
+(A) CICD
+~~~~~~~~~~~~~~~~~~~~~~~
+==> Docker, Kubernetes
+==> Jenkins
+==> Terraform
+==> Apache Kafka
+
+
+(B) Database
+~~~~~~~~~~~~~~~~~~~~~~~~
+==> NoSQ: MongoDB
+==> PostgreSQL
+==> MySQL
+
+
+
+(C) Language
+~~~~~~~~~~~~~~~~~~~~~~~~~
+==> C#
+==> Python
+==> C++
+==> Java
+==> JavaScript
+
+
+
+(D) Game Engine
+~~~~~~~~~~~~~~~~~~~~~~~
+==> Unreal Engine
+==> Unity
+
+
+
+(E) Web
+~~~~~~~~~~~~~~~~~~~~~~~~
+==> HTML, CSS
+
+
+
+(F) Framework
+~~~~~~~~~~~~~~~~~~~~~~
+==> React
+==> TypeScript
+==> Node JS
+==> Angular 17
+==> Bootstrap
+==> Vue.js
+==> Flutter
+==> Django
+==> AJAX
+
+
+
+(G) Software Development and architectures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==> TDD (Test-Driven Development)
+==> SOLID 
+==> RESTful APIs
+==> clean code architecture
+==> UI/UX Design Principles
+
+
+
+
+(H) Cloud Computing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==> AWS Lambda, S3, EC2
+==> Google Cloud Platform (GCP)
+==> Azure
+
+
+
+(I) Automation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==> Power Apps, Power Automate
+==> Apache Airflow
+
+
+
+(J) Business Analysis
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==> Dynamics 365
+
+

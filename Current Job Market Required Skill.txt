@@ -1,0 +1,132 @@
+(A) Cloud Computing Skill
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) AWS
+    |__ AWS Glue, AWS Lambda, S3, EC2, Amazon Redshift, Amazon Simple Queue Service,
+        Amazon Simple Notification Service and Amazon EventBridge, Kinesis, AWS Glue
+    |__ Certification in AWS Solution Developer/Solution Architect
+
+
+(2) Google Cloud Platform (GCP)
+
+
+(3) Azure
+    |__ Azure Synapse Analytics, Azure Data Factory,  Apache Spark,  Azure Data Lakes, ETL
+
+
+
+(B) CICD
+~~~~~~~~~~~~~~~~~~~~~~~~
+(1) Terraform
+(2) Cloudformation
+(3) Container: Docker, Kubernetes
+(4) Jenkins
+(5) Apache Kafka
+(6) GitHub, CircleCI, BitBucket
+(7) Git, GitLab, Subversion, Maven, Jenkins,Docker, Puppet/Chef
+(8) Jira
+(9) teamcity
+
+
+
+(C) Automation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) Power Apps, Power Automate
+(2) Apache Airflow
+
+
+
+(D) Business Analysis
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) Dynamics 365
+
+
+
+(E) Software Development and architectures
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) TDD (Test-Driven Development)
+(2) A solid understanding of micro-service architectures
+(3) Agile
+(4) RESTful APIs
+(5) Entity Component System (ECS) pattern
+(6) clean code architecture
+(7) UI/UX Design Principles
+
+
+(F) Programming Language
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) Python, C#, C++, JavaScript, Java, Ruby, JRuby, Scala, Kotlin, Go, SAS, R, Go, Rust
+
+
+
+(G) Data
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) SQL
+(2) PySpark
+(3) Apache Spark, Hadoop, Presto
+(4) Snowflake
+(5) Tableau, Power BI, Sisense
+(6) NoSQL Database Cassandra, MongoDB, DynamoDB, Cosmos DB
+(7) PostgreSQL
+(8) Python libraries such as Pandas, Numpy, Scikit-Learn, Jupyter Notebooks, SciPy, machine learning, PyTorch/TensorFlow
+(9) SQL Server 2022.
+(10) Elasticsearch
+(11) Power BI reporting solutions with use of Power Query, SQL, DAX and M
+(12) Databricks
+(13) ETL pipelines
+(14) Microsoft Dataverse
+(15) Apache Hive
+
+
+
+
+(H) Framework
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) React
+(2) TypeScript
+(3) Redux, Redux Saga
+(4) Node JS
+(5) gRPC
+(6) GraphQL
+(7) Angular 17
+(8) Bootstrap
+(9) Spring,  Spring Cloud, Hibernate,  SpringBoot Microservices
+(10) .NET Core, ASP.NET
+(11) Vue.js
+(12) Servlets, Struts,
+(13) JDBC
+(14) Flutter
+(15) Flask, Django
+(16) AJAX
+
+
+
+(I) Web
+~~~~~~~~~~~~~~~~~~~~~~~~
+(1) HTML, CSS
+
+
+
+(J) Game Engine
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) Unreal Engine 5
+(2) Unity
+(3) Frostbite
+
+
+
+(K) Game
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) Familiarity with BaaS (PlayFab, Gamesparks, Chilliconnect).
+(2) Exposure to platform-specific frameworks (Gradle, Cocoapods, Xcode)
+(3) Nvidia PhysX 
+(4) Unity Shader Language (HLSL) proficiency.
+(5) Knowledge of dependency injection frameworks (Zenject/Extenject).
+
+
+
+(L) Other skills
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) Strong debugging, profiling and optimisation skills
+
+
+

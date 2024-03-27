@@ -77,12 +77,27 @@ https://uk.indeed.com/viewjob?jk=032b87dacd26d323&tk=1hpt3oluojv5l868&from=serp&
 https://uk.indeed.com/viewjob?jk=ad9445b94d916286&tk=1hpt4nvjgg3mh800&from=serp&vjs=3
 https://uk.indeed.com/viewjob?jk=b2335a50abde13c5&tk=1hpt4nvjgg3mh800&from=serp&vjs=3
 https://uk.indeed.com/viewjob?jk=e403ebe6b6599e70&tk=1hpt4nvjgg3mh800&from=serp&vjs=3
-
+https://uk.indeed.com/viewjob?jk=e403ebe6b6599e70&tk=1hpt4nvjgg3mh800&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=46bede52bfbcc804&tk=1hpuskaj2jk9k858&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=0e0b228b337b372a&tk=1hpusjcioiekl84u&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=f0109ef80575ed7a&tk=1hpuskaj2jk9k858&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=86e6c3f9a4da1bb7&tk=1hpv09uj9icbk83c&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=7e3480216b048e87&tk=1hpv0qo2viemf85s&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=50229893db9b0400&tk=1hpv2coboj6ff800&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=19c47744105eaf86&tk=1hpv2coboj6ff800&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=1983e98b568bda8f&tk=1hpv2coboj6ff800&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=f8b0f6b7e680e42c&tk=1hpvd4t23j9h581d&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=0829fedd1eacda9e&tk=1hpvd4t23j9h581d&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=6e4242a34384b742&tk=1hpvd4t23j9h581d&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=f8b0f6b7e680e42c&tk=1hpvd4t23j9h581d&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=66178a9b77a7ba96&tk=1hpvd4t23j9h581d&from=serp&vjs=3
 
 
 
 Game Job Listing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://uk.indeed.com/jobs?q=game+development&l=Reading%2C+Berkshire&vjk=28aec4e25afe7568
+
 https://www.linkedin.com/jobs/search/?currentJobId=3854405467&geoId=101165590&keywords=artificial%20intelligence&location=United%20Kingdom&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&originalSubdomain=uk&refresh=true
 https://www.glassdoor.com.hk/Job/london-england-uk-programmer-jobs-SRCH_IL.0,17_IC2671300_KO18,28.htm
 https://uk.indeed.com/viewjob?jk=b981e72088f58c9f&tk=1hpsudevsjv6i81o&from=serp&vjs=3
@@ -91,6 +106,17 @@ https://uk.indeed.com/viewjob?jk=630fdf212497b5e0&tk=1hpsudevsjv6i81o&from=serp&
 https://uk.indeed.com/viewjob?jk=245c86830323437d&tk=1hpt3oluojv5l868&from=serp&vjs=3
 https://uk.indeed.com/viewjob?jk=1269a8fe8cc97cfe&tk=1hpt3oluojv5l868&from=serp&vjs=3
 https://uk.indeed.com/viewjob?jk=b2335a50abde13c5&tk=1hpt4nvjgg3mh800&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=df968b9f49b1e7c3&tk=1hpuskaj2jk9k858&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=64eb5573f09c61e7&tk=1hpuskaj2jk9k858&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=1fb3cb97742d9caf&tk=1hpuskaj2jk9k858&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=1fb3cb97742d9caf&tk=1hpuskaj2jk9k858&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=d61c828f94b3f4f2&tk=1hpuskaj2jk9k858&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=3092340fbc466250&tk=1hpuskaj2jk9k858&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=b0bc10849f29674d&tk=1hpv09uj9icbk83c&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=1d53653d381a7d6c&tk=1hpv0qo2viemf85s&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=64eb5573f09c61e7&tk=1hpv1gff02d6d050&from=serp&vjs=3
+https://uk.indeed.com/viewjob?jk=b0bc10849f29674d&tk=1hpv1gff02d6d050&from=serp&vjs=3
+
 
 
 AI Job Listing
@@ -331,6 +357,23 @@ Proficient experience working on Web & Desktop applications
 - Flask, Django
 - Go, Rust
 - Ethereum protocols, BFT and dPoS consensus, P2P messaging, and crypto primitives
+- 5+ years of professional experience with C++ and C#
+- Experience with game engines (i.e. Frostbite, Unreal, Unity)
+- Experience with .NET or Python
+- Strong debugging, profiling and optimisation skills
+- graphics, tools, networking, AI, physics, maths, multi-threading, user-interfaces, third-party APIs
+- Perl, PHP, mySQL, C#
+- clean code architecture, design patterns, extensible, robust, well documented code
+- A strong understanding of performance, optimisation and best practices for developing games for multiple platforms.
+- gitlab, teamcity, jenkins
+- OpenStack
+- Handle RESTful services and AJAX calls for dynamic content loading.
+- HTML5 & CSS3, React.js, Angular.js, or Vue.js
+- UI/UX Design Principles
+- JSON and AJAX
+
+
+
 
 
 
@@ -349,7 +392,9 @@ Code Sample:
 
 
 
-
+Tax Calculator
+//////////////////////////////////////////////////
+https://www.gov.uk/estimate-income-tax
 
 
 
@@ -357,6 +402,13 @@ Code Sample:
 
  
 
+Azure
+///////////////////////////////
+https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification#certification-take-the-exam
+https://k21academy.com/microsoft-azure/certification-path/
+https://learn.microsoft.com/en-us/credentials/certifications/register-schedule-exam
+https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
+https://learn.microsoft.com/en-us/
 
 
 
