@@ -1,17 +1,25 @@
 (A) CICD
 ~~~~~~~~~~~~~~~~~~~~~~~
 ==> Docker, Kubernetes
-==> Jenkins
+==> Jenkins, Ansible
 ==> Terraform
-==> Apache Kafka
+==> Chef
+
+version control
+================
+svn, Perforce
+
 
 
 (B) Database
 ~~~~~~~~~~~~~~~~~~~~~~~~
-==> NoSQ: MongoDB
+==> NoSQ: MongoDB, Cassandra
 ==> PostgreSQL
 ==> MySQL
-
+==> Elasticsearch
+==> Redis
+==> ETL, Data warehouse
+==> Apache Spark, Hadoop
 
 
 (C) Language
@@ -21,7 +29,7 @@
 ==> C++
 ==> Java
 ==> JavaScript
-
+==> SQL
 
 
 (D) Game Engine
@@ -40,7 +48,9 @@
 (F) Framework
 ~~~~~~~~~~~~~~~~~~~~~~
 ==> React
+==> Redux
 ==> TypeScript
+==> .NET Core, ASP.NET
 ==> Node JS
 ==> Angular 17
 ==> Bootstrap
@@ -48,7 +58,11 @@
 ==> Flutter
 ==> Django
 ==> AJAX
-
+==> gRPC
+==> Apache Kafka
+==> RabbitMQ
+==> Servlets, Struts
+==> Spring (Core, MVC)
 
 
 (G) Software Development and architectures
@@ -70,6 +84,7 @@
 
 
 
+
 (I) Automation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ==> Power Apps, Power Automate
@@ -77,8 +92,27 @@
 
 
 
+
 (J) Business Analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-==> Dynamics 365
+==> Dynamics 365, BI, Tableau
 
+
+
+
+(K) Mobile Specific Platform Framework
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==> Gradle, Cocoapods, Xcode
+
+
+
+(L) Other skills
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==> Strong debugging, profiling and optimisation skills
+
+
+
+(O) Testing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+==>  Unit Testing tools – Postman
 
