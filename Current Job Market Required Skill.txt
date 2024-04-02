@@ -9,8 +9,14 @@
 (2) Google Cloud Platform (GCP)
 
 
+
 (3) Azure
     |__ Azure Synapse Analytics, Azure Data Factory,  Apache Spark,  Azure Data Lakes, ETL
+	
+
+
+
+
 
 
 
@@ -50,6 +56,7 @@
 (5) Entity Component System (ECS) pattern
 (6) clean code architecture
 (7) UI/UX Design Principles
+
 
 
 (F) Programming Language

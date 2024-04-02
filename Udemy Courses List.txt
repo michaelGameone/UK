@@ -1,0 +1,545 @@
+~~~~~~~~~~~~~~~~~~~~~~~
+(A) CICD
+~~~~~~~~~~~~~~~~~~~~~~~
+(1) Complete Linux Training Course to Get Your Dream IT Job 2024
+    |__ Module 5 to Module 8
+        |__ 20hrs
+
+
+(2) Docker Mastery: with Kubernetes +Swarm from a Docker Captain
+    |__ 21 hrs
+
+
+
+(3) The Git & Github Bootcamp
+    |__ 17 hrs
+
+
+
+(4) Build+Deploy+Test with Jenkins 2.0
+     |__ 7 hrs
+
+
+
+(5) Devops Fundamentals - CI/CD with AWS +Docker+Ansible+Jenkins
+    |__ 9 hrs
+
+
+
+(6) DevOps Beginners to Advanced with Projects
+    |__ 55 hrs
+
+
+
+(7) Learn Azure DevOps CI/CD pipelines
+     |__ 13.5 hrs
+
+
+
+(8) The Ultimate Chef Training Course: DevOps Automation
+     |___ 8.5 hrs 
+
+
+(9) Apache Maven: Beginner to Guru
+    |__ 17 hrs
+
+
+
+(10) Learn JIRA with real-world examples (+Confluence bonus)
+    |__ 12 hrs
+
+
+
+(11) Linux Administration: Build 5 Hands-On Linux Projects
+    |__ 16 hrs
+
+
+
+(12) Mastering CI/CD with TeamCity and Octopus Deploy 
+    |__ 5 hrs
+ 
+
+
+(13) Docker and Kubernetes: The Complete Guide
+    |__ 21 hrs
+
+
+
+(14) DevOps Project 1 - CI/CD with Git Jenkins Ansible Kubernetes
+     |__ 6.5 hrs
+ 
+
+
+~~~~~~~~~~~~~~~~~~~~~~~
+(B) Important Framework
+~~~~~~~~~~~~~~~~~~~~~~~
+
+(1) Spring Boot 3, Spring 6 & Hibernate for Beginners
+    |__ 33 hrs
+
+
+
+(2) Master Microservices with Spring Boot and Spring Cloud
+    |__ 25 hrs
+
+
+
+(2) Mastering Java Reactive Programming
+    |__ 12 hrs
+
+
+
+(3) Apache Kafka With Spring Boot From Scratch
+    |__ 12 hrs
+
+
+
+(4) gRPC Masterclass with Java & Spring Boot
+    |__ 16 hrs
+
+
+
+(17) gRPC [Golang] Master Class: Build Modern API & Microservices
+     |__ 4 hrs
+
+
+
+
+
+(6) Build an app with ASPNET Core and Angular from scratch
+    |__ 35 hrs
+
+
+
+
+(5) Python Django - Complete Course
+    |__ 19 hrs
+
+
+
+(7) Complete Guide to Protocol Buffers 3 [Java, Golang, Python]
+    |__ 4 hrs
+
+
+(8) Servlets and JSP Tutorial For Beginners!
+    |__ 4.5 hrs
+
+
+
+(9) The Complete Node.js Developer Course (3rd Edition)
+    |__ 35 hrs
+
+
+
+(10) React - The Complete Guide 2024 (incl. React Router & Redux)
+     |__ 68 hrs
+
+  
+(18) Modern React with Redux
+     |__ 76 hrs
+ 
+
+
+(11) Angular - The Complete Guide (2024 Edition)
+     |__ 36 hrs
+
+
+(12) The Complete React Native + Hooks Course
+     |__ 38 hrs
+
+
+(13) Vue - The Complete Guide (incl. Router & Composition API)
+     |__ 32 hrs
+ 
+
+
+(14) Node.js, Express, MongoDB & More: The Complete Bootcamp 2024
+     |__ 42 hrs
+
+
+
+(15) NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)
+     |__ 40.5 hrs
+
+
+
+(16) Ionic - Build iOS, Android & Web Apps with Ionic & Angular
+     |__ 20 hrs
+
+
+
+
+
+
+(20) Complete React Developer (w/ Redux, Hooks, GraphQL)
+     |__ 42 hrs
+
+
+
+(21) Microservices with Node JS and React
+     |__ 54 hrs
+
+
+
+(22) RabbitMQ In Practice
+     |__ 9 hrs
+
+
+(23) Redis: The Complete Developer's Guide
+     |__ 16 hrs
+
+
+(24) Introduction to NGINX
+     |__ 7 hrs
+
+
+(25) Create a Twitter Clone with Node.js, Socket.IO and MongoDB
+     |__ 25.5 hrs
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(C) Data Analysis and AI
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) Microsoft Power BI Desktop for Business Intelligence
+    |__ 16 hrs
+
+
+
+(2) Python for Data Science and Machine Learning Bootcamp
+    |__ 25 hrs
+
+
+
+(3) A deep understanding of deep learning (with Python intro)
+    |__ 58 hrs
+
+
+
+(4) Complete SQL and Databases Bootcamp
+    |__ 24 hrs
+
+
+
+(5) MongoDB - The Complete Developer's Guide 2024
+    |__ 18 hrs
+
+
+
+(6) Complete Guide to Elasticsearch
+    |__ 12.5hrs
+
+
+
+(7) Data Warehouse - The Ultimate Guide
+     |__ 9 hrs
+
+
+
+(8) Data Lake Mastery: The Key to Big Data & Data Engineering
+     |__ 10 hrs
+
+
+(9) TensorFlow Developer Certificate Bootcamp
+    |__ 63 hrs
+
+
+
+
+(10) Complete Tensorflow 2 and Keras Deep Learning Bootcamp
+     |__ 19 hrs
+
+
+
+(11) The Data Science Course: Complete Data Science Bootcamp 2024
+     |__ 32 hrs
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~
+(D) Networking
+~~~~~~~~~~~~~~~~~~~~~~~
+(1) The Complete Networking Fundamentals Course. Your CCNA start
+    |__ 80hrs
+
+
+ 
+(2) Fundamentals of Network Engineering
+    |__ 15 hrs
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~
+(E) Web
+~~~~~~~~~~~~~~~~~~~~~~~
+(1) The Complete 2024 Web Development Bootcamp
+    |__ 61 hrs
+
+
+(2) Build Web Apps with React & Firebase
+    |__ 23.5 hrs
+
+
+(3) The Complete SSL and TLS Guide: HTTP to HTTPS
+    |__ 11 hrs
+
+
+(4) Building Modern Web Applications with Go (Golang)
+    |__ 30 hrs
+  
+
+
+~~~~~~~~~~~~~~~~~~~~~~~
+(F) Game Engine
+~~~~~~~~~~~~~~~~~~~~~~~
+(1) Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
+    |__ 30 hrs 
+
+
+
+(2) The Ultimate Guide to Game Development with Unity (Official)
+    |__ 37 hrs
+
+
+
+(3) Complete C# Unity Game Developer 3D
+    |__ 31 hrs
+
+
+
+(4) Complete C# Unity Game Developer 2D
+    |__ 19 hrs
+
+
+
+(5) Learn Unity Shaders from Scratch
+    |__ 6 hrs
+
+
+
+(6) Shader Development from Scratch for Unity with Cg    
+    |__ 10 hrs
+
+
+
+(7) Visual Effects for Games in Unity - Beginner To Intermediate
+    |__ 6 hrs
+
+
+
+(8) Unreal Engine Blueprint Game Developer    
+    |__ 11 hrs
+
+
+
+(9) Unity 2D Game Developer Course Farming RPG
+    |__ 45 hrs
+
+
+
+
+(10) Ultimate Unity Overview (70+ Tools and Features Explained!)
+     |__ 14 hrs
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(G) Programming Language
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) 100 Days of Code: The Complete Python Pro Bootcamp
+    |__ 54 hrs
+
+
+
+(2) The Complete JavaScript Course 2024: From Zero to Expert!
+    |__ 68.5 hrs
+
+
+
+(3) Java 17 Masterclass: Start Coding in 2024
+    |__ 136 hrs
+
+
+
+(4) Typescript: The Complete Developer's Guide
+    |__ 27 hrs
+
+
+
+(5) Learn Multithreading with Modern C++
+    |__ 9 hrs
+
+
+(6) Learn the Vulkan API with C++ 
+    |__ 26 hrs
+
+
+(7) Detecting Memory Leaks in C/C++ Applications
+    |__ 6 hrs
+
+
+(8) Learn Multithreading in C++
+    |__ 3.5 hrs
+
+
+(9) Modern C++ Concurrency in Depth ( C++17/20)
+     |__ 10 hrs
+
+
+
+(10) Object Oriented PHP & MVC
+     |__ 6.5 hrs
+
+
+
+
+(11) Ruby for Beginners
+     |__ 16 hrs
+
+
+
+(12) PHP for Beginners
+     |__ 14 hrs
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(H) Cloud Computing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) Azure Devops Crash Course -Build CI/CD release pipelines
+    |__ 7.5 hrs
+
+
+(2) Ultimate AWS Certified Developer Associate 2024 NEW DVA-C02
+    |__ 33 hrs
+
+
+(3) Ultimate AWS Certified Cloud Practitioner CLF-C02
+    |__ 15 hrs
+
+
+(4) Apache Kafka Series - Learn Apache Kafka for Beginners v3
+    |__ 8.5 hrs
+
+
+(5) OpenStack Essentials
+    |__ 6 hrs
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(I) Automation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) Power Automate - Complete Guide to Microsoft Power Automate
+    |__ 10hrs
+
+
+
+(2) Automate the Boring Stuff with Python Programming
+    |__ 9.5 hrs
+
+
+(3) Learn Manual Software Testing + Agile with Jira Tool
+    |__ 23 hrs
+
+
+(4) Linux Shell Scripting: A Project-Based Approach to Learning
+    |__ 11.5 hrs
+
+
+(5) Quick Introduction to Postman and API Testing for Beginners 
+    |__ 3 hrs
+
+
+(6) Prometheus | The Complete Hands-On for Monitoring & Alerting
+    |__ 10 hrs
+
+
+(7) Unit Testing for C# Developers
+    |__ 6 hrs
+
+
+
+(8) Automated Software Testing with Python
+    |__ 14 hrs
+
+
+(9) Top 150+ QA Automation Interview Questions & Resume Tips
+    |__ 10 hrs
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(J) Build
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) The Gradle Masterclass
+    |__ 6 hrs
+
+
+(2) Master CMake for Cross-Platform C++ Project Building
+    |__ 3.5 hrs
+
+(3) CMake, Tests and Tooling for C/C++ Projects
+    |__ 5.5 hrs
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(K) Software Architecture
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) SOLID Principles: Introducing Software Architecture & Design
+    |__ 2 hrs
+
+(2) Master the Coding Interview: Data Structures + Algorithms
+    |__ 20 hrs
+
+
+(3) Distributed Systems & Cloud Computing with Java
+    |__ 7.5 hrs
+
+
+(4) Software Architecture & System Design Practical Case Studies
+    |__ 4 hrs
+
+
+(5) Java Multithreading, Concurrency & Performance Optimization
+    |__ 5.5 hrs
+
+
+(6) Software Architecture & Technology of Large-Scale Systems
+    |__ 26 hrs
+ 
+
+(7) Practical Test Driven Development for Java Programmers
+    |__ 4 hrs
+
+
+(8) TDD Fundamentals in C#
+    |__ 10 hrs
+
+(9) Fundamentals of Backend Engineering
+    |__ 16 hrs
+
+
+
+(10) Java Data Structures & Algorithms + LEETCODE Exercises
+     |__ 10 hrs
+
+
+(11) Master the Coding Interview: Big Tech (FAANG) Interviews
+     |__ 37 hrs
+
+
+(12) Clean Code
+     |__ 7 hrs
+
+
+(13) Java Application Performance Tuning and Memory Management
+     |__ 10 hrs
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(L) Others
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+(1) Cryptography Beginners Guide with openSSL
+
