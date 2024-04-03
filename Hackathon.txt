@@ -174,9 +174,29 @@ Week 4 (84 hours avaliable)
     |__ 25 hrs
 
 
-
-
-
-
-(3) A deep understanding of deep learning (with Python intro)
+(9) A deep understanding of deep learning (with Python intro)
     |__ 58 hrs
+
+
+
+(10) Unit Testing for C# Developers
+     |__ 6 hrs
+
+
+
+(11) Automated Software Testing with Python
+     |__ 14 hrs
+
+
+
+(12) TDD Fundamentals in C#
+     |__ 10 hrs
+
+
+(13) Detecting Memory Leaks in C/C++ Applications
+     |__ 6 hrs
+
+
+
+(14) Typescript: The Complete Developer's Guide
+     |__ 27 hrs
