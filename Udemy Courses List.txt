@@ -1,13 +1,13 @@
 ~~~~~~~~~~~~~~~~~~~~~~~
 (A) CICD
 ~~~~~~~~~~~~~~~~~~~~~~~
-(1) Complete Linux Training Course to Get Your Dream IT Job 2024
+* (1) Complete Linux Training Course to Get Your Dream IT Job 2024
     |__ Module 5 to Module 8
         |__ 20hrs
 
 
-(2) Docker Mastery: with Kubernetes +Swarm from a Docker Captain
-    |__ 21 hrs
+* (2) Docker Mastery: with Kubernetes +Swarm from a Docker Captain
+      |__ 21 hrs
 
 
 
@@ -16,12 +16,12 @@
 
 
 
-(4) Build+Deploy+Test with Jenkins 2.0
+* (4) Build+Deploy+Test with Jenkins 2.0
      |__ 7 hrs
 
 
 
-(5) Devops Fundamentals - CI/CD with AWS +Docker+Ansible+Jenkins
+* (5) Devops Fundamentals - CI/CD with AWS +Docker+Ansible+Jenkins
     |__ 9 hrs
 
 
@@ -36,11 +36,11 @@
 
 
 
-(8) The Ultimate Chef Training Course: DevOps Automation
+* (8) The Ultimate Chef Training Course: DevOps Automation
      |___ 8.5 hrs 
 
 
-(9) Apache Maven: Beginner to Guru
+* (9) Apache Maven: Beginner to Guru
     |__ 17 hrs
 
 
@@ -74,127 +74,148 @@
 (B) Important Framework
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-(1) Spring Boot 3, Spring 6 & Hibernate for Beginners
+  Server side 
+****************
+
+* (1) Python Django - Complete Course
+      |__ 19 hrs
+
+
+
+* (2) Build an app with ASPNET Core and Angular from scratch
+    |__ 35 hrs
+
+
+
+** Java Server **
+* (3) Spring Boot 3, Spring 6 & Hibernate for Beginners
     |__ 33 hrs
 
 
 
-(2) Master Microservices with Spring Boot and Spring Cloud
+(4) Master Microservices with Spring Boot and Spring Cloud
     |__ 25 hrs
 
 
 
-(2) Mastering Java Reactive Programming
+(5) Mastering Java Reactive Programming
     |__ 12 hrs
 
 
-
-(3) Apache Kafka With Spring Boot From Scratch
-    |__ 12 hrs
-
-
-
-(4) gRPC Masterclass with Java & Spring Boot
+(6) gRPC Masterclass with Java & Spring Boot
     |__ 16 hrs
 
 
 
-(17) gRPC [Golang] Master Class: Build Modern API & Microservices
-     |__ 4 hrs
-
-
-
-
-
-(6) Build an app with ASPNET Core and Angular from scratch
-    |__ 35 hrs
-
-
-
-
-(5) Python Django - Complete Course
-    |__ 19 hrs
-
-
-
-(7) Complete Guide to Protocol Buffers 3 [Java, Golang, Python]
-    |__ 4 hrs
-
-
-(8) Servlets and JSP Tutorial For Beginners!
+(7) Servlets and JSP Tutorial For Beginners!
     |__ 4.5 hrs
 
 
 
-(9) The Complete Node.js Developer Course (3rd Edition)
+(8) Apache Kafka With Spring Boot From Scratch
+    |__ 12 hrs
+
+
+
+(9) Complete Guide to Protocol Buffers 3 [Java, Golang, Python]
+    |__ 4 hrs
+
+
+
+
+** Node.js **
+* (10) The Complete Node.js Developer Course (3rd Edition)
     |__ 35 hrs
 
 
 
-(10) React - The Complete Guide 2024 (incl. React Router & Redux)
-     |__ 68 hrs
-
-  
-(18) Modern React with Redux
-     |__ 76 hrs
- 
-
-
-(11) Angular - The Complete Guide (2024 Edition)
-     |__ 36 hrs
-
-
-(12) The Complete React Native + Hooks Course
-     |__ 38 hrs
-
-
-(13) Vue - The Complete Guide (incl. Router & Composition API)
-     |__ 32 hrs
- 
-
-
-(14) Node.js, Express, MongoDB & More: The Complete Bootcamp 2024
+(11) Node.js, Express, MongoDB & More: The Complete Bootcamp 2024
      |__ 42 hrs
 
 
 
-(15) NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)
+(12) NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)
      |__ 40.5 hrs
 
 
 
-(16) Ionic - Build iOS, Android & Web Apps with Ionic & Angular
-     |__ 20 hrs
-
-
-
-
-
-
-(20) Complete React Developer (w/ Redux, Hooks, GraphQL)
-     |__ 42 hrs
-
-
-
-(21) Microservices with Node JS and React
+(13) Microservices with Node JS and React
      |__ 54 hrs
 
 
 
-(22) RabbitMQ In Practice
-     |__ 9 hrs
+** React **
+(14) React - The Complete Guide 2024 (incl. React Router & Redux)
+     |__ 68 hrs
 
 
-(23) Redis: The Complete Developer's Guide
-     |__ 16 hrs
+(15) Modern React with Redux
+     |__ 76 hrs
+ 
+
+(16) The Complete React Native + Hooks Course
+     |__ 38 hrs
 
 
-(24) Introduction to NGINX
+* (17) Complete React Developer (w/ Redux, Hooks, GraphQL)
+     |__ 42 hrs
+
+
+
+** nginx **
+(18) Introduction to NGINX
      |__ 7 hrs
 
 
-(25) Create a Twitter Clone with Node.js, Socket.IO and MongoDB
+
+** db **
+(19) Redis: The Complete Developer's Guide
+     |__ 16 hrs
+
+
+** message **
+(20) RabbitMQ In Practice
+     |__ 9 hrs
+
+
+
+** client **
+(21) Angular - The Complete Guide (2024 Edition)
+     |__ 36 hrs
+
+
+
+(22) The Bootstrap 4 Bootcamp
+     |__ 12 hrs
+
+
+
+(23) Flutter & Dart - The Complete Guide
+     |__ 30 hrs
+
+ 
+
+(24) Ionic - Build iOS, Android & Web Apps with Ionic & Angular
+     |__ 20 hrs
+
+
+(25) Vue - The Complete Guide (incl. Router & Composition API)
+     |__ 32 hrs
+
+
+(26) AJAX fundamentals, simply put
+     |__ 12 hrs
+
+
+
+** project based learning **
+(27) Create a Twitter Clone with Node.js, Socket.IO and MongoDB
      |__ 25.5 hrs
+
+
+(28) gRPC [Golang] Master Class: Build Modern API & Microservices
+     |__ 4 hrs
+
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -215,7 +236,7 @@
 
 
 
-(4) Complete SQL and Databases Bootcamp
+* (4) Complete SQL and Databases Bootcamp
     |__ 24 hrs
 
 
@@ -225,7 +246,7 @@
 
 
 
-(6) Complete Guide to Elasticsearch
+* (6) Complete Guide to Elasticsearch
     |__ 12.5hrs
 
 
@@ -271,7 +292,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~
 (E) Web
 ~~~~~~~~~~~~~~~~~~~~~~~
-(1) The Complete 2024 Web Development Bootcamp
+* (1) The Complete 2024 Web Development Bootcamp
     |__ 61 hrs
 
 
@@ -291,13 +312,13 @@
 ~~~~~~~~~~~~~~~~~~~~~~~
 (F) Game Engine
 ~~~~~~~~~~~~~~~~~~~~~~~
-(1) Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
+* (1) Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
     |__ 30 hrs 
 
 
 
-(2) The Ultimate Guide to Game Development with Unity (Official)
-    |__ 37 hrs
+* (2) The Ultimate Guide to Game Development with Unity (Official)
+      |__ 37 hrs
 
 
 
@@ -345,12 +366,12 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (G) Programming Language
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-(1) 100 Days of Code: The Complete Python Pro Bootcamp
+* (1) 100 Days of Code: The Complete Python Pro Bootcamp
     |__ 54 hrs
 
 
 
-(2) The Complete JavaScript Course 2024: From Zero to Expert!
+* (2) The Complete JavaScript Course 2024: From Zero to Expert!
     |__ 68.5 hrs
 
 
@@ -442,7 +463,7 @@
     |__ 23 hrs
 
 
-(4) Linux Shell Scripting: A Project-Based Approach to Learning
+* (4) Linux Shell Scripting: A Project-Based Approach to Learning
     |__ 11.5 hrs
 
 
@@ -470,8 +491,8 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 (J) Build
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-(1) The Gradle Masterclass
-    |__ 6 hrs
+* (1) The Gradle Masterclass
+      |__ 6 hrs
 
 
 (2) Master CMake for Cross-Platform C++ Project Building

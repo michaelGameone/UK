@@ -1,0 +1,182 @@
+
+** Intensity: 12 working hrs per day
+
+*** Produce some sample codes. upload to Github for job interviewer reference
+
+
+
+April 
+/////////////////////
+
+Week 1 (48 hours avaliable)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Complete Linux Training Course to Get Your Dream IT Job 2024
+  |__ 20 hrs
+
+
+- Python Django - Complete Course
+  |__ 19 hrs
+
+
+
+- The Gradle Masterclass
+  |__ 6 hrs
+
+
+
+Week 2 (84 hours avaliable)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Docker Mastery: with Kubernetes +Swarm from a Docker Captain
+  |__ 21 hrs
+
+
+- Spring Boot 3, Spring 6 & Hibernate for Beginners
+    |__ 70% completion, 23 hrs (from section 1 to 8)
+
+
+- The Complete Node.js Developer Course (3rd Edition)
+    |__ 35 hrs
+
+
+
+Week 3 (84 hours avaliable)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Build+Deploy+Test with Jenkins 2.0
+  |__ 7 hrs
+
+- The Ultimate Guide to Game Development with Unity (Official)
+  |__ 37 hrs
+
+- 100 Days of Code: The Complete Python Pro Bootcamp
+   |__ (70% completion) 38 hrs, start from Section 10 to Section 56
+
+
+
+Week 4 (84 hours avaliable)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Devops Fundamentals - CI/CD with AWS +Docker+Ansible+Jenkins
+   |__ 9 hrs
+
+
+- Apache Maven: Beginner to Guru
+  |__ 17 hrs
+
+
+- Complete React Developer (w/ Redux, Hooks, GraphQL)
+  |__ 42 hrs
+
+
+
+- C# (kindle ebook)
+  |__ 16 hrs
+
+
+
+May
+//////////////////////////////////
+Week 1 (84 hours avaliable)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- The Ultimate Chef Training Course: DevOps Automation
+  |___ 8.5 hrs 
+
+
+- Build an app with ASPNET Core and Angular from scratch
+   |__ 35 hrs
+
+- Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
+    |__ 30 hrs 
+
+
+- Linux Shell Scripting: A Project-Based Approach to Learning
+    |__ 11.5 hrs
+
+
+
+Week 2 (84 hours avaliable)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- The Ultimate Chef Training Course: DevOps Automation
+  |___ 8.5 hrs 
+
+
+- Build an app with ASPNET Core and Angular from scratch
+   |__ 35 hrs
+
+- Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
+    |__ 30 hrs 
+
+
+- Linux Shell Scripting: A Project-Based Approach to Learning
+    |__ 11.5 hrs
+
+
+Week 3 (84 hours avaliable)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- The Complete JavaScript Course 2024: From Zero to Expert!
+    |__ 70% completion, 48 hrs
+
+
+- Complete SQL and Databases Bootcamp
+    |__ 24 hrs
+
+
+- Complete Guide to Elasticsearch
+    |__ 12 hrs
+
+
+
+Week 4 (84 hours avaliable)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- The Complete 2024 Web Development Bootcamp
+   |__ 61 hrs
+
+
+- C++ 
+  |__ 23 hrs
+
+
+
+
+
+///////////////////////////////////////////
+     Important skill not yet learnt
+///////////////////////////////////////////
+
+
+(1) Introduction to NGINX
+     |__ 7 hrs
+
+(2) Redis: The Complete Developer's Guide
+     |__ 16 hrs
+
+
+(3) MongoDB - The Complete Developer's Guide 2024
+    |__ 18 hrs
+
+
+(4) RabbitMQ In Practice
+     |__ 9 hrs
+
+
+(5) Angular - The Complete Guide (2024 Edition)
+     |__ 36 hrs
+
+
+
+(6) Flutter & Dart - The Complete Guide
+     |__ 30 hrs
+
+
+(7) Vue - The Complete Guide (incl. Router & Composition API)
+     |__ 32 hrs
+
+
+(8) Python for Data Science and Machine Learning Bootcamp
+    |__ 25 hrs
+
+
+
+
+
+
+(3) A deep understanding of deep learning (with Python intro)
+    |__ 58 hrs
